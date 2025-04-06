@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e6f3ee-4158-4c52-ac0e-6a659e8b804c" name="Changes" comment="new code added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/CalculateFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/CheckPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/ConcatTwoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/FindAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/SortStringList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/CheckIfWordInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/MaxAndMinCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/OperateOnNumberList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/PalindromeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/SumOfSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/WordCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/StringListToChangeCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/StringListToChangeCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.pklearning.java8features.lambda" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -84,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1743965180376</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new code added">
+      <created>1743970312047</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743970312047</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

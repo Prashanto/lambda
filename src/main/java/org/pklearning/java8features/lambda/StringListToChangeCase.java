@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.function.Consumer;
 import java.util.function.Function;
 
+//Write a Java program to implement a lambda expression to filter out even and odd numbers from a list of integers.
 public class StringListToChangeCase {
     public static void main(String[] args) {
         List<String> lowerCaseList= Arrays.asList("red","blue","Green");

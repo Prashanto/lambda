@@ -1,6 +1,8 @@
 import java.util.function.Function;
 import java.util.function.IntBinaryOperator;
 
+//Write a Java program to implement a lambda expression to find the sum of two integers.
+
 public class Sum {
     public static void main(String[] args) {
 

@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51e6f3ee-4158-4c52-ac0e-6a659e8b804c" name="Changes" comment="new code added">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/AverageStringSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/CheckPerfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/IntegerToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/LargestPrimeFactor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/SecondLargestAndSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/SmallestStringInList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/SortEmployeeBasedOnHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/StringCaseCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/SumOfAllPrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/data/Employees.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/data/LoadEmployeeData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/defn/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="51e6f3ee-4158-4c52-ac0e-6a659e8b804c" name="Changes" comment="new code added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +53,7 @@
     "Application.CalculateFactorial.executor": "Run",
     "Application.CheckIfWordInList.executor": "Run",
     "Application.CheckPerfectSquare.executor": "Run",
+    "Application.IntegerToBinary.executor": "Run",
     "Application.LargestPrimeFactor.executor": "Run",
     "Application.LoadEmployeeData.executor": "Run",
     "Application.SecondLargestAndSmallest.executor": "Run",
@@ -126,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743970312047</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new code added">
+      <option name="closed" value="true" />
+      <created>1744039296040</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744039296040</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

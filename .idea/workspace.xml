@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e6f3ee-4158-4c52-ac0e-6a659e8b804c" name="Changes" comment="new code added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/CheckIfWordInList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/MaxAndMinCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/OperateOnNumberList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/PalindromeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/SumOfSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/AverageStringSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/CheckPerfectSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/IntegerToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/LargestPrimeFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/SecondLargestAndSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/SmallestStringInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/SortEmployeeBasedOnHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/StringCaseCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/SumOfAllPrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/data/Employees.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/data/LoadEmployeeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pklearning/java8features/lambda/defn/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -28,16 +36,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Prashanto"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Prashanto/lambda.git",
+    "accountId": "13ed7a7a-9843-4a4e-bc81-57ab1c3d9772"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="2vMiEN0csZ990lQ9UtGi0kbNYQy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,9 +64,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AverageStringSize.executor": "Run",
+    "Application.CalculateFactorial.executor": "Run",
+    "Application.CheckIfWordInList.executor": "Run",
+    "Application.CheckPerfectSquare.executor": "Run",
+    "Application.LargestPrimeFactor.executor": "Run",
+    "Application.LoadEmployeeData.executor": "Run",
+    "Application.SecondLargestAndSmallest.executor": "Run",
+    "Application.SmallestStringInList.executor": "Run",
+    "Application.SortEmployeeBasedOnHeight.executor": "Run",
+    "Application.StringCaseCheck.executor": "Run",
+    "Application.SumOfAllPrimeNumbers.executor": "Run",
+    "Application.SumOfSquares.executor": "Run",
+    "Application.SumofAllPrimeNumbers.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="RecentsManager">
